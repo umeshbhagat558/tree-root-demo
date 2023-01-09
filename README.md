@@ -2,7 +2,7 @@
  1. first use code => `npm install`
  2. then to start the app use code => `npm start`
 
-## if get any kind of issue then remove
+## if get any kind of issue then 
  1. delete "packege-lock.json" file .
  2. again use code => `npm install`
  3. then use code => `npm start`
